@@ -44,4 +44,4 @@ python3 client.py
 - In the server.py you can code your own commands, just go to line 48 or 55 to see an example :D
 
 ### Credits
-Kepar is always on TOP
+Kepar#6326 is always on TOP
